@@ -3,6 +3,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/alien-inc/chatter-box/badge)](https://www.codefactor.io/repository/github/alien-inc/chatter-box)
 ![Forks](https://img.shields.io/github/forks/Alien-Inc/Chatter-Box)
 ![Stars](https://img.shields.io/github/stars/Alien-Inc/Chatter-Box)
+![Issues](https://img.shields.io/github/issues/Alien-Inc/Chatter-Box)
 ![License](https://img.shields.io/github/license/Alien-Inc/Chatter-Box)
 
 
