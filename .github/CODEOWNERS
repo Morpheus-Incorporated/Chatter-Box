@@ -4,10 +4,12 @@
 # the repo. Unless a later match takes precedence,
 # @global-owner1 and @global-owner2 will be requested for
 # review when someone opens a pull request.
-*       @EbenezerJesuraj @sujairamprasathc
+*       @sujairamprasathc @EbenezerJesuraj 
 
 # Order is important; the last matching pattern takes the most
-# precedence. When someone opens a pull request that only
+# precedence. 
+
+#When someone opens a pull request that only
 # modifies CPP files, only @sujairamprasathc and not the global
 # owner(s) will be requested for a review.
 *.cpp    @sujairamprasathc

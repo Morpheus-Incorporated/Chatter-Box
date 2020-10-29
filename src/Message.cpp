@@ -44,8 +44,6 @@ User Message::getSender() const
     return this->sender;
 }
 
-
-
 std::istream& operator>>(std::istream& in, Message& input_message)
 {
     in >> input_message.sender >> input_message.receiver >> input_message.text;
